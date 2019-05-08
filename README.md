@@ -4,6 +4,6 @@ A curated personal list of awesome resources I always end up searching for and l
 - [Algorithms](algorithms/algorithms.md)
 - [Editors](editors/editors.md)
 - [Git](git/git.md)
-- [Programming Languages](programmingLanguages/programmingLanguages.md)
+- [Programming Languages](programminglanguages/programminglanguages.md)
 - [Shell](shell/shell.md)
 - [Unit Test](unittest/unittest.md)
