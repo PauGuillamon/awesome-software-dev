@@ -1,4 +1,4 @@
-DEVELOPMENT
+ALGORITHMS
 ================
 
 CRC32

@@ -1,7 +1,7 @@
 SHELL
 ================
 
-Commands
+Operators
 ----------------
 * Operators
     * https://www.tutorialspoint.com/unix/unix-relational-operators.htm
